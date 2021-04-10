@@ -14,10 +14,6 @@ function main (){
             }); 
         }  
     });  
-    $('.submenu').click(function(){
-        $(this).hijos('.hijos').slideToggle();
-    });
-    $('.submenu').click(function(){
-        $(this).hijos1('.hijos1').slideToggle();
-    });
+   
+  
 }
