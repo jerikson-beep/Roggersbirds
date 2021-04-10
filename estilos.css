@@ -40,10 +40,10 @@ header nav ul li a {
     padding: 8px;
 }
 header nav ul li a span {
-    margin-right: 1px;
+    margin-right: 5px;
 }
 header nav ul li:hover .hijos{
-    display: block;  
+   display: block;  
 }
 header nav ul li .hijos {
     display: none;
@@ -132,7 +132,7 @@ header nav ul li .caret {
         width: 80%;
         height: calc(100% - 145px);
         position: fixed;
-        right: 100%;;         
+        right:100%;        
         margin: 0;
         overflow: scroll;
     }
@@ -152,10 +152,12 @@ header nav ul li .caret {
     header nav ul li .hijos {
         width: 100%;
         position: relative;
+        
     }   
     header nav ul li .hijos1 {
         width: 100%;
         position: relative;
+        
     }
     header nav ul li .hijos li a{
         margin-left: 20px;
