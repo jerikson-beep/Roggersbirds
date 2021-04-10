@@ -12,5 +12,8 @@ function main (){
             $('nav').animate({
                 left: '-100%'
             }); 
-        }    
+        }  
+    });  
+   
+  
 }
